@@ -83,7 +83,7 @@ Feel free to submit feedback, issues, or feature requests via GitHub.
 ## 📜 License
 
 Released under the **MIT License**  
-You are free to use, modify, and distribute this software.
+You are free to use.
 
 ---
 
@@ -184,7 +184,7 @@ You are free to use, modify, and distribute this software.
 ## 📜 مجوز استفاده
 
 این پروژه تحت مجوز **MIT License** منتشر شده است.  
-استفاده، ویرایش و بازنشر آن کاملاً آزاد است.
+استفاده و بازنشر آن کاملاً آزاد است.
 
 ---
 
