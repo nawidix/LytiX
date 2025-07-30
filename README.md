@@ -89,7 +89,7 @@ You are free to use, modify, and distribute this software.
 
 ## 🔗 Download
 
-> ✅ Download the latest version from the [Releases](https://github.com/your-repo-link/releases) section.  
+> ✅ Download the latest version from the [Releases](https://github.com/nawidix/LytiX/releases/latest) section.  
 > Simply unzip and run `Lytix.exe`. No installation required.
 
 ---
@@ -190,7 +190,7 @@ You are free to use, modify, and distribute this software.
 
 ## 🔗 دانلود
 
-> ✅ آخرین نسخه را از بخش [Releases](https://github.com/your-repo-link/releases) دریافت کنید.  
+> ✅ آخرین نسخه را از بخش [Releases](https://github.com/nawidix/LytiX/releases/latest) دریافت کنید.  
 > فقط کافیست فایل را از حالت فشرده خارج کرده و `Lytix.exe` را اجرا نمایید.
 
 </div>
